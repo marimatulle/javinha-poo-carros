@@ -10,8 +10,4 @@ public class Partes {
         this.chassis = chassis;
         this.banco = banco;
     }
-
-    public String toString() {
-        return "Motor: " + motor + "\nCâmbio: " + cambio + "\nChassis: " + chassis + "\nBanco: " + banco;
-    }
 }
